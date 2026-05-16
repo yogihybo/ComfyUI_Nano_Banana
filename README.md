@@ -100,7 +100,7 @@ To use the simpler API approach, you need a Google AI API key. You can obtain on
 ### Option 2: Google Vertex AI
 For access to the full functionality including the thinking process output and enhanced grounding capabilities, use the Vertex AI approach with your Google Cloud Project.
 
-To use this you need a Google Cloud Project with the Vertex AI API enabled.
+To use this you need a Google Cloud Project with the Vertex AI API & SDK enabled. Refer https://docs.cloud.google.com/sdk/docs/install-sdk
 
 1.  **Enable the Vertex AI API:** Follow the instructions in the [Google Cloud documentation](https://cloud.google.com/vertex-ai/docs/start/cloud-environment) to enable the API for your project.
 
